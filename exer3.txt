@@ -1,0 +1,11 @@
+Que1: What is reverse-i search in a linux terminal?
+ans: Use reverse- search to find past commands.
+
+Que2: How do you list out the hidden directories using linux command line tool?
+ans: To show hidden files you must use the -a command option, which commands ls to list all files and folders.
+
+Que3: How comfortable are you with using Linux-based OS like Ubantu, Centos, etc?
+ans: it's to use with working on linux based-OS like ubantu,Centos.
+
+Que4: Have you ever used servers to host any web applications in the past? if yes, what services did you set up(Like- Apache/Nginx/FTP/SMTP,etc)
+ans: No i haven't used any server to host any web application.
